@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Vision Captioner",
+  "description": "An AI-powered application that generates descriptive captions for any uploaded image using the Gemini API. Upload an image or select an example to see it in action.",
+  "requestFramePermissions": []
+}
